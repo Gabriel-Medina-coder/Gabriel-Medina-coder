@@ -48,7 +48,9 @@ I love the web desing, I think is one of my favorite things, I have been the mai
 <br>
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
-<h2>**Contact me**</h2>
+![Cesar's github stats](https://github-readme-stats.vercel.app/api?username=Gabriel-Medina-coder&show_icons=true&theme=tokyonight) | ![Cesar GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Gabriel-Medina-coder&theme=tokyonight)
+
+<h2> **Contact me** </h2>
 
  ![My Skills](https://skillicons.dev/icons?i=discord&theme=light) **ZickEnd** 
   
