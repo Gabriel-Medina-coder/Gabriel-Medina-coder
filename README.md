@@ -24,11 +24,34 @@ I love the web desing, I think is one of my favorite things, I have been the mai
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 ## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="25"><b> Skills</b>
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,wasm)](https://skillicons.dev)
 <br>
 
--**Laguages:**
+<p align="center">
 
+- **Languages**:
+    
+   ![My Skills](https://skillicons.dev/icons?i=java,kotlin,c,cpp,php&theme=light)
+  
+<br>   
+    
+- **Front-End Development**:
+
+   ![My Skills](https://skillicons.dev/icons?i=html,css,figma&theme=light)
+  
 <br>
 
+- **Softwares and Tools**:
+
+    ![My Skills](https://skillicons.dev/icons?i=git,github,godot,linux&theme=light)
+  
+</p>
+<br>
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+
+<h2>**Contact me**</h2>
+
+ ![My Skills](https://skillicons.dev/icons?i=discord&theme=light) **ZickEnd** 
+  
+  ![My Skills](https://skillicons.dev/icons?i=instagram&theme=light)  **gabrielmedina55**
+    
 ![alt text](./bottom.svg)
