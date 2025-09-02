@@ -1,33 +1,34 @@
-I love coding in Python :snake:. I work at [Estylo](https://estylo.in/) as a Python Developer and occassionally participate in hackathons.
+<h1 align="center"><b>Hi , I'm Cesar Gabriel </b><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 
-<!--
-**sisodiya2421/sisodiya2421** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-⚡ Fun fact:
-- 👯 I’m looking to collaborate on projects that are using Python.
-- 🌱 I’m currently learning JavaScript and mathematics required for ML and Data Science.
-- :pencil2: I Write blogs on dev.to on free days.
-- :musical_note: I love to hear country music.
-
-
-### Let's Connect :coffee:
 <p align="center">
-	<a href="https://github.com/sisodiya2421"><img src="https://img.icons8.com/bubbles/50/000000/github.png" alt="GitHub"/></a>
-	<a href="https://www.linkedin.com/in/abhishek-sisodiya/"><img src="https://img.icons8.com/bubbles/50/000000/linkedin.png" alt="LinkedIn"/></a>
-	<a href="https://www.facebook.com/asisodiya2421/"><img src="https://img.icons8.com/bubbles/50/000000/facebook-new.png" alt="Facebook"/></a>
-	<a href="https://www.instagram.com/abhisheksisodiya__/"><img src="https://img.icons8.com/bubbles/50/000000/instagram.png" alt="Instagram"/></a>
-	<a href="https://twitter.com/sisodiya2421"><img src="https://img.icons8.com/bubbles/50/000000/twitter.png" alt="Twitter"/></a>
+  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=cyan&size=25&center=true&vCenter=true&width=600&height=100&lines=&hearts;++;Self-taught+Front-End+Developer,;Computer+Science+Student,;Active+Learner/Researcher,;Love+to+learn+new+stuffs..<3"></a>
 </p>
+
+<h2>Aboout Me!!! :raising_hand: </h2>
+
+<br>
+
+- My name is Cesar Gabriel.
+- I'm 20 years old.
+- I'm an student from UTEZ.
+- A passionate Self-taught Front-end developer.
+- Currently learning Web Development by Self.
+  
+<br>
+
+<p>On the top you have the most important information about me, but I would like to introduce myself in a short paragraph if you want to know more about me:</p>
+<p>As I already said my name is Cesar Gabriel, I have been learning about programming since I was in Middle school, through the time i have been learning about different technologies and ways to improve.
+I love the web desing, I think is one of my favorite things, I have been the main designer from schoolar project. </p>
+<p>I have experience working in team, I can be part from any kind of teams, I like to be proactive and share my knowledge with my team.</p>
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+
+## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="25"><b> Skills</b>
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,wasm)](https://skillicons.dev)
+<br>
+
+-**Laguages:**
+
+<br>
 
 ![alt text](./bottom.svg)
